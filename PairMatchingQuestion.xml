@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+	<name>
+		<text>Demo question d'appariement</text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est la bonne réponse?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+	<subquestion>
+		<text>Premier item de la première paire</text>
+		<answer>
+			<text>Second item de le première paire</text>
+		</answer>
+	</subquestion>
+	<subquestion>
+		<text>Premier item de la seconde paire</text>
+		<answer>
+			<text>Second item de la seconde paire</text>
+		</answer>
+	</subquestion>
+	<shuffleanswers>true</shuffleanswers>
+
