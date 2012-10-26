@@ -3,7 +3,7 @@
 	<name>
 		<text>Demo question à choix multiples</text>
 	</name>
-	<questiontext format=html>
+	<questiontext format="html">
 		<text>Quel est la bonne réponse?</text>
 	</questiontext>
 	<penalty>1</penalty>
