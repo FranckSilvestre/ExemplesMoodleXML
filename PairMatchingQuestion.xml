@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-
+<question type="pairmatching">
 	<name>
 		<text>Demo question d'appariement</text>
 	</name>
@@ -21,4 +21,4 @@
 		</answer>
 	</subquestion>
 	<shuffleanswers>true</shuffleanswers>
-
+</question>
