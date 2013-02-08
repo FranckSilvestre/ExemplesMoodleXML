@@ -1,0 +1,5 @@
+<question type="numerical">
+ <answer fraction="100">
+     <text>23</text>
+     <feedback><text>Feedback</text></feedback>
+ </answer>
